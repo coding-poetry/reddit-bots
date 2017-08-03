@@ -6,4 +6,4 @@ A collection of my reddit bots
 [![Praw](https://img.shields.io/badge/Praw-4-blue.svg?style=plastic)](https://github.com/praw-dev/praw)
 
 
-[Download .zip](https://github.com/coding-poetry/reddit-bots.zip)
+[Download .zip](https://github.com/coding-poetry/reddit-bots/archive/master.zip)
