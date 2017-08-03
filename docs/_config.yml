@@ -4,3 +4,4 @@ description: "No way to directly download .zip help"
 author: "Ricardo Rodriguez"
 author_email: "rodriguez.ricardo.ch@outlook.com"
 url: "https://github.com/coding-poetry/reddit-bots/archive/master.zip"
+show_downloads: true
